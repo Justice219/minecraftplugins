@@ -1,0 +1,9 @@
+name: TestPlugin
+version: '${project.version}'
+main: com.justice.test.TestPlugin
+api-version: 1.19
+authors: [Justice#4956]
+description: Cool test plugin
+commands:
+  test:
+    description: woah! for config

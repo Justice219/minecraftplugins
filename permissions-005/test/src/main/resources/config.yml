@@ -1,0 +1,7 @@
+Word: 'Banana'
+Number: 52
+Boolean: true
+String-list:
+  - 'Hello'
+  - 'World'
+  - '!'
